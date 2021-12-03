@@ -15,4 +15,16 @@ public class Konto {
         return kontostand;
     }
 
+    public int getKonto2() {
+        return konto2;
+    }
+
+    public int getKonto3() {
+        return konto3;
+    }
+
+    public int getKonto4() {
+        return konto4;
+    }
+
 }
